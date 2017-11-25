@@ -1294,7 +1294,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value/>
+			<value>1</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
