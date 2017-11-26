@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-	<generation-date>2017-11-26T14:16:27+03:00</generation-date>
+	<generation-date>2017-11-26T14:17:19+03:00</generation-date>
 	<offer internal-id="1">
 		<location>
 			<latitude>55.337117</latitude>
@@ -10,8 +10,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -29,7 +29,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520.0</value>
+			<value>11520</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -47,8 +47,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -65,7 +65,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>9999.0</value>
+			<value>9999</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -83,8 +83,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -102,7 +102,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>2.0</value>
+			<value>2</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -120,8 +120,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -139,7 +139,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912.0</value>
+			<value>6912</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -157,8 +157,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -176,7 +176,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640.0</value>
+			<value>8640</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -194,8 +194,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -213,7 +213,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11232.0</value>
+			<value>11232</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -231,8 +231,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -250,7 +250,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4314.0</value>
+			<value>4314</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -268,8 +268,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -287,7 +287,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6863.0</value>
+			<value>6863</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -305,8 +305,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -324,7 +324,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8471.0</value>
+			<value>8471</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -342,8 +342,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -361,7 +361,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>26496.0</value>
+			<value>26496</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -379,8 +379,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -398,7 +398,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4600.0</value>
+			<value>4600</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -416,8 +416,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -435,7 +435,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760.0</value>
+			<value>5760</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -453,8 +453,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -472,7 +472,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912.0</value>
+			<value>6912</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -490,8 +490,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -509,7 +509,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8060.0</value>
+			<value>8060</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -527,8 +527,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -546,7 +546,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12670.0</value>
+			<value>12670</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -564,8 +564,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -583,7 +583,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>13820.0</value>
+			<value>13820</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -601,8 +601,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -620,7 +620,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>720.0</value>
+			<value>720</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -638,8 +638,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -657,7 +657,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>1440.0</value>
+			<value>1440</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -675,8 +675,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -694,7 +694,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>2880.0</value>
+			<value>2880</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -712,8 +712,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -731,7 +731,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>3600.0</value>
+			<value>3600</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -749,8 +749,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -768,7 +768,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4320.0</value>
+			<value>4320</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -786,8 +786,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -805,7 +805,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5040.0</value>
+			<value>5040</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -823,8 +823,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -842,7 +842,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760.0</value>
+			<value>5760</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -860,8 +860,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -879,7 +879,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6480.0</value>
+			<value>6480</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -897,8 +897,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -916,7 +916,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7200.0</value>
+			<value>7200</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -934,8 +934,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -953,7 +953,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7920.0</value>
+			<value>7920</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -971,8 +971,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -990,7 +990,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640.0</value>
+			<value>8640</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1008,8 +1008,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1027,7 +1027,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>9360.0</value>
+			<value>9360</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1045,8 +1045,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1064,7 +1064,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080.0</value>
+			<value>10080</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1082,8 +1082,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1101,7 +1101,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10800.0</value>
+			<value>10800</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1119,8 +1119,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1138,7 +1138,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520.0</value>
+			<value>11520</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1156,8 +1156,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1175,7 +1175,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12240.0</value>
+			<value>12240</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1193,8 +1193,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1212,7 +1212,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1230,8 +1230,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1249,7 +1249,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>13680.0</value>
+			<value>13680</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1267,8 +1267,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1286,7 +1286,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>14400.0</value>
+			<value>14400</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1304,8 +1304,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1324,7 +1324,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640.0</value>
+			<value>8640</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1342,8 +1342,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1362,7 +1362,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11232.0</value>
+			<value>11232</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1380,8 +1380,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1400,7 +1400,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4314.0</value>
+			<value>4314</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1418,8 +1418,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1438,7 +1438,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6863.0</value>
+			<value>6863</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1456,8 +1456,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1476,7 +1476,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8471.0</value>
+			<value>8471</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1494,8 +1494,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1514,7 +1514,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>26496.0</value>
+			<value>26496</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1532,8 +1532,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1552,7 +1552,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4600.0</value>
+			<value>4600</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1570,8 +1570,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1590,7 +1590,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760.0</value>
+			<value>5760</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1608,8 +1608,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1628,7 +1628,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912.0</value>
+			<value>6912</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1646,8 +1646,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1666,7 +1666,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8060.0</value>
+			<value>8060</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1684,8 +1684,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1704,7 +1704,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12670.0</value>
+			<value>12670</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1722,8 +1722,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1742,7 +1742,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>13820.0</value>
+			<value>13820</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -1760,8 +1760,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1779,7 +1779,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1797,8 +1797,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1816,7 +1816,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5180.0</value>
+			<value>5180</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1834,8 +1834,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1853,7 +1853,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7780.0</value>
+			<value>7780</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1871,8 +1871,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1890,7 +1890,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10370.0</value>
+			<value>10370</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1908,8 +1908,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1927,7 +1927,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1945,8 +1945,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1965,7 +1965,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1983,8 +1983,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2003,7 +2003,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5180.0</value>
+			<value>5180</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -2021,8 +2021,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2041,7 +2041,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7780.0</value>
+			<value>7780</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -2059,8 +2059,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2079,7 +2079,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10370.0</value>
+			<value>10370</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -2097,8 +2097,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2117,7 +2117,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -2135,8 +2135,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2154,7 +2154,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>21600.0</value>
+			<value>21600</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2172,8 +2172,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2191,7 +2191,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080.0</value>
+			<value>10080</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2209,8 +2209,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2228,7 +2228,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520.0</value>
+			<value>11520</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2246,8 +2246,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2265,7 +2265,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2283,8 +2283,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2302,7 +2302,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>14400.0</value>
+			<value>14400</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2320,8 +2320,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2339,7 +2339,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>15840.0</value>
+			<value>15840</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2357,8 +2357,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2376,7 +2376,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>17280.0</value>
+			<value>17280</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2394,8 +2394,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2413,7 +2413,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>18720.0</value>
+			<value>18720</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2431,8 +2431,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2451,7 +2451,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>21600.0</value>
+			<value>21600</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2469,8 +2469,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2489,7 +2489,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080.0</value>
+			<value>10080</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2507,8 +2507,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2527,7 +2527,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520.0</value>
+			<value>11520</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2545,8 +2545,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2565,7 +2565,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960.0</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2583,8 +2583,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2603,7 +2603,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>14400.0</value>
+			<value>14400</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2621,8 +2621,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2641,7 +2641,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>15840.0</value>
+			<value>15840</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2659,8 +2659,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2679,7 +2679,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>17280.0</value>
+			<value>17280</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2697,8 +2697,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2717,7 +2717,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>18720.0</value>
+			<value>18720</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Бекасово</description>
@@ -2735,8 +2735,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2754,7 +2754,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>720.0</value>
+			<value>720</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2772,8 +2772,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2791,7 +2791,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>1440.0</value>
+			<value>1440</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2809,8 +2809,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2828,7 +2828,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>2880.0</value>
+			<value>2880</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2846,8 +2846,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2865,7 +2865,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>3600.0</value>
+			<value>3600</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2883,8 +2883,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2902,7 +2902,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4320.0</value>
+			<value>4320</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2920,8 +2920,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2939,7 +2939,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5040.0</value>
+			<value>5040</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2957,8 +2957,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2976,7 +2976,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760.0</value>
+			<value>5760</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -2994,8 +2994,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3013,7 +3013,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6480.0</value>
+			<value>6480</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -3031,8 +3031,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3050,7 +3050,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7200.0</value>
+			<value>7200</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -3068,8 +3068,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3087,7 +3087,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7920.0</value>
+			<value>7920</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -3105,8 +3105,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3124,7 +3124,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640.0</value>
+			<value>8640</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -3142,8 +3142,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3161,7 +3161,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>9360.0</value>
+			<value>9360</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
@@ -3179,8 +3179,8 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:16:27+03:00</creation-date>
-		<last-update-date>2017-11-26T14:16:27+03:00</last-update-date>
+		<creation-date>2017-11-26T14:17:19+03:00</creation-date>
+		<last-update-date>2017-11-26T14:17:19+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3198,7 +3198,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080.0</value>
+			<value>10080</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Софьино</description>
