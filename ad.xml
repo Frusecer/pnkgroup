@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-	<generation-date>2017-11-25T16:53:49+03:00</generation-date>
+	<generation-date>2017-11-26T11:54:23+03:00</generation-date>
 	<offer internal-id="1">
 		<location>
 			<latitude>55.337117</latitude>
@@ -10,14 +10,14 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -32,12 +32,10 @@
 			<value>11520</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="2">
 		<location>
@@ -48,34 +46,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>290000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4608</value>
+			<value>4608.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="3">
 		<location>
@@ -86,34 +82,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>290000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912</value>
+			<value>6912.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="4">
 		<location>
@@ -124,34 +118,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640</value>
+			<value>8640.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="5">
 		<location>
@@ -162,34 +154,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11232</value>
+			<value>11232.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="6">
 		<location>
@@ -200,34 +190,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4314</value>
+			<value>4314.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="7">
 		<location>
@@ -238,34 +226,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6863</value>
+			<value>6863.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="8">
 		<location>
@@ -276,34 +262,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>8-495-723-73-16</phone>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8471</value>
+			<value>8471.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="9">
 		<location>
@@ -314,34 +298,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>26496</value>
+			<value>26496.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="10">
 		<location>
@@ -352,34 +334,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4600</value>
+			<value>4600.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="11">
 		<location>
@@ -390,34 +370,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760</value>
+			<value>5760.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="12">
 		<location>
@@ -428,34 +406,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912</value>
+			<value>6912.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="13">
 		<location>
@@ -466,34 +442,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8060</value>
+			<value>8060.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="14">
 		<location>
@@ -504,34 +478,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12670</value>
+			<value>12670.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="15">
 		<location>
@@ -542,34 +514,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>13820</value>
+			<value>13820.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="16">
 		<location>
@@ -580,35 +550,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>36300</value>
+			<value>363000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>720</value>
+			<value>720.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="17">
 		<location>
@@ -619,35 +586,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>33600</value>
+			<value>336000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>1440</value>
+			<value>1440.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="18">
 		<location>
@@ -658,35 +622,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>2880</value>
+			<value>2880.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="19">
 		<location>
@@ -697,35 +658,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>3600</value>
+			<value>3600.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="20">
 		<location>
@@ -736,35 +694,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4320</value>
+			<value>4320.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="21">
 		<location>
@@ -775,35 +730,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5040</value>
+			<value>5040.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="22">
 		<location>
@@ -814,35 +766,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760</value>
+			<value>5760.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="23">
 		<location>
@@ -853,35 +802,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6480</value>
+			<value>6480.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="24">
 		<location>
@@ -892,35 +838,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7200</value>
+			<value>7200.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="25">
 		<location>
@@ -931,35 +874,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7920</value>
+			<value>7920.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="26">
 		<location>
@@ -970,35 +910,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640</value>
+			<value>8640.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="27">
 		<location>
@@ -1009,35 +946,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>9360</value>
+			<value>9360.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="28">
 		<location>
@@ -1048,35 +982,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080</value>
+			<value>10080.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="29">
 		<location>
@@ -1087,35 +1018,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10800</value>
+			<value>10800.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="30">
 		<location>
@@ -1126,35 +1054,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520</value>
+			<value>11520.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="31">
 		<location>
@@ -1165,35 +1090,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12240</value>
+			<value>12240.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="32">
 		<location>
@@ -1204,35 +1126,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960</value>
+			<value>12960.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="33">
 		<location>
@@ -1243,35 +1162,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>13680</value>
+			<value>13680.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="34">
 		<location>
@@ -1282,35 +1198,32 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>1</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>14400</value>
+			<value>14400.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="35">
 		<location>
@@ -1321,19 +1234,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1341,13 +1254,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640</value>
+			<value>8640.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="36">
 		<location>
@@ -1358,19 +1271,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2950</value>
+			<value>29500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1378,13 +1291,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11232</value>
+			<value>11232.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="37">
 		<location>
@@ -1395,19 +1308,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1415,13 +1328,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4314</value>
+			<value>4314.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="38">
 		<location>
@@ -1432,19 +1345,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1452,13 +1365,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6863</value>
+			<value>6863.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="39">
 		<location>
@@ -1469,19 +1382,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1489,13 +1402,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8471</value>
+			<value>8471.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="40">
 		<location>
@@ -1506,19 +1419,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2950</value>
+			<value>29500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1526,13 +1439,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>26496</value>
+			<value>26496.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="41">
 		<location>
@@ -1543,19 +1456,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1563,13 +1476,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4600</value>
+			<value>4600.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="42">
 		<location>
@@ -1580,19 +1493,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1600,13 +1513,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760</value>
+			<value>5760.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="43">
 		<location>
@@ -1617,19 +1530,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1637,13 +1550,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912</value>
+			<value>6912.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="44">
 		<location>
@@ -1654,19 +1567,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3250</value>
+			<value>32500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1674,13 +1587,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8060</value>
+			<value>8060.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="45">
 		<location>
@@ -1691,19 +1604,19 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2950</value>
+			<value>29500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -1711,51 +1624,50 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12670</value>
+			<value>12670.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="46">
 		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district> Дмитровский район</district>
-			<locality-name> деревня Глазово</locality-name>
+			<district> городской округ Подольск</district>
+			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
-		<type>продажа</type>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
+		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>29500</value>
 			<currency>RUB</currency>
+			<period>month</period>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12 960</value>
+			<value>13820.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
+		<description>PNK Парк Валищево</description>
+		<floor>1 из 1</floor>
 		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="47">
 		<location>
@@ -1766,14 +1678,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1785,13 +1697,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5180</value>
+			<value>12 960</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="48">
 		<location>
@@ -1802,14 +1714,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1821,13 +1733,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7780</value>
+			<value>5180.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="49">
 		<location>
@@ -1838,14 +1750,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1857,13 +1769,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10370</value>
+			<value>7780.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="50">
 		<location>
@@ -1874,14 +1786,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1893,13 +1805,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960</value>
+			<value>10370.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="51">
 		<location>
@@ -1910,14 +1822,50 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+7­495­723­73­16</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>12960.0</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
+	</offer>
+	<offer internal-id="52">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district> Дмитровский район</district>
+			<locality-name> деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1933,47 +1881,10 @@
 			<value>12 960</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
-	</offer>
-	<offer internal-id="52">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district> Дмитровский район</district>
-			<locality-name> деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
-		<type>аренда</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone/>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>3300</value>
-			<currency>RUB</currency>
-			<period>month</period>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>5180</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="53">
 		<location>
@@ -1984,14 +1895,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2004,13 +1915,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7780</value>
+			<value>5180.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="54">
 		<location>
@@ -2021,14 +1932,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2041,13 +1952,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10370</value>
+			<value>7780.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="55">
 		<location>
@@ -2058,14 +1969,14 @@
 			<district> Дмитровский район</district>
 			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2078,51 +1989,50 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960</value>
+			<value>10370.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="56">
 		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district> Наро-Фоминский район</district>
-			<locality-name> деревня Бекасово</locality-name>
+			<district> Дмитровский район</district>
+			<locality-name> деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
-		<type>продажа</type>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
+		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>3300</value>
 			<currency>RUB</currency>
+			<period>month</period>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>21600</value>
+			<value>12960.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Северное Шереметьево</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="57">
 		<location>
@@ -2133,14 +2043,14 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2152,15 +2062,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080</value>
+			<value>21600</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="58">
 		<location>
@@ -2171,34 +2079,32 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520</value>
+			<value>10080.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="59">
 		<location>
@@ -2209,34 +2115,32 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960</value>
+			<value>11520.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="60">
 		<location>
@@ -2247,34 +2151,32 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>14400</value>
+			<value>12960.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="61">
 		<location>
@@ -2285,34 +2187,32 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>15840</value>
+			<value>14400.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="62">
 		<location>
@@ -2323,34 +2223,32 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>17280</value>
+			<value>15840.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="63">
 		<location>
@@ -2361,34 +2259,32 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>280000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>18720</value>
+			<value>17280.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="64">
 		<location>
@@ -2399,14 +2295,50 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+7­495­723­73­16</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>280000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>18720.0</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
+	</offer>
+	<offer internal-id="65">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district> Наро-Фоминский район</district>
+			<locality-name> деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2422,51 +2354,10 @@
 			<value>21600</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
-	</offer>
-	<offer internal-id="65">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district> Наро-Фоминский район</district>
-			<locality-name> деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
-		<type>аренда</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone/>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>2850</value>
-			<currency>RUB</currency>
-			<period>month</period>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>10080</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="66">
 		<location>
@@ -2477,19 +2368,19 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2497,15 +2388,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>11520</value>
+			<value>10080.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="67">
 		<location>
@@ -2516,19 +2405,19 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2536,15 +2425,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>12960</value>
+			<value>11520.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="68">
 		<location>
@@ -2555,19 +2442,19 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2575,15 +2462,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>14400</value>
+			<value>12960.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="69">
 		<location>
@@ -2594,19 +2479,19 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2614,15 +2499,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>15840</value>
+			<value>14400.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="70">
 		<location>
@@ -2633,19 +2516,19 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2653,15 +2536,13 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>17280</value>
+			<value>15840.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="71">
 		<location>
@@ -2672,19 +2553,19 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2692,17 +2573,52 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>18720</value>
+			<value>17280.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2017</built-year>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
 	</offer>
 	<offer internal-id="72">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district> Наро-Фоминский район</district>
+			<locality-name> деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+7­495­723­73­16</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28500</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>18720.0</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2017.0</built-year>
+	</offer>
+	<offer internal-id="73">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
@@ -2711,14 +2627,14 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2733,52 +2649,10 @@
 			<value>720</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
-	</offer>
-	<offer internal-id="73">
-		<location>
-			<latitude>55.491298</latitude>
-			<longitude>38.163761</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district> Раменский  район</district>
-			<locality-name> деревня Софьино</locality-name>
-		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone/>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>33600</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>1440</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="74">
 		<location>
@@ -2789,35 +2663,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>336000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>2880</value>
+			<value>1440.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="75">
 		<location>
@@ -2828,35 +2699,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>3600</value>
+			<value>2880.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="76">
 		<location>
@@ -2867,35 +2735,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4320</value>
+			<value>3600.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="77">
 		<location>
@@ -2906,35 +2771,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5040</value>
+			<value>4320.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="78">
 		<location>
@@ -2945,35 +2807,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760</value>
+			<value>5040.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="79">
 		<location>
@@ -2984,35 +2843,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6480</value>
+			<value>5760.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="80">
 		<location>
@@ -3023,35 +2879,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7200</value>
+			<value>6480.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="81">
 		<location>
@@ -3062,35 +2915,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>7920</value>
+			<value>7200.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="82">
 		<location>
@@ -3101,35 +2951,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8640</value>
+			<value>7920.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="83">
 		<location>
@@ -3140,35 +2987,32 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>9360</value>
+			<value>8640.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 	<offer internal-id="84">
 		<location>
@@ -3179,34 +3023,67 @@
 			<district> Раменский  район</district>
 			<locality-name> деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-25T16:53:49+03:00</creation-date>
-		<last-update-date>2017-11-25T16:53:49+03:00</last-update-date>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone/>
+			<phone>+7­495­723­73­16</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>328000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>10080</value>
+			<value>9360.0</value>
 			<unit>кв. м</unit>
 		</area>
-		<description>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
-Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
-
-</description>
-		<floor>1</floor>
-		<office-class>А</office-class>
-		<built-year>2018</built-year>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
+	</offer>
+	<offer internal-id="85">
+		<location>
+			<latitude>55.491298</latitude>
+			<longitude>38.163761</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district> Раменский  район</district>
+			<locality-name> деревня Софьино</locality-name>
+		</location>
+		<creation-date>2017-11-26T11:54:23+03:00</creation-date>
+		<last-update-date>2017-11-26T11:54:23+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+7­495­723­73­16</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>328000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>10080.0</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Софьино</description>
+		<floor>1 из 1</floor>
+		<office-class>A</office-class>
+		<built-year>2018.0</built-year>
 	</offer>
 </realty-feed>
