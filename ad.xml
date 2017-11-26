@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-	<generation-date>2017-11-26T15:28:49+03:00</generation-date>
+	<generation-date>2017-11-26T16:57:28+03:00</generation-date>
 	<offer internal-id="1">
 		<location>
 			<latitude>55.337117</latitude>
@@ -10,8 +10,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -37,6 +37,11 @@
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
+		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2261__.jpg</image>
+		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2361__.jpg</image>
+		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2521__.jpg</image>
+		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2533__.jpg</image>
+		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/PNK-Group_photo_.jpg</image>
 	</offer>
 	<offer internal-id="2">
 		<location>
@@ -47,8 +52,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -83,8 +88,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -120,8 +125,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -157,8 +162,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -194,8 +199,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -231,8 +236,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -268,8 +273,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -305,8 +310,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -342,8 +347,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -379,8 +384,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -416,8 +421,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -453,8 +458,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -490,8 +495,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -527,8 +532,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -564,8 +569,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -601,8 +606,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -638,8 +643,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -675,8 +680,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -712,8 +717,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -749,8 +754,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -786,8 +791,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -823,8 +828,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -860,8 +865,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -897,8 +902,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -934,8 +939,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -971,8 +976,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1008,8 +1013,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1045,8 +1050,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1082,8 +1087,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1119,8 +1124,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1156,8 +1161,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1193,8 +1198,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1230,8 +1235,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1267,8 +1272,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1304,8 +1309,8 @@
 			<district>городской округПодольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1342,8 +1347,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1380,8 +1385,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1418,8 +1423,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1456,8 +1461,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1494,8 +1499,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1532,8 +1537,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1570,8 +1575,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1608,8 +1613,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1646,8 +1651,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1684,8 +1689,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1722,8 +1727,8 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1760,8 +1765,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1797,8 +1802,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1834,8 +1839,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1871,8 +1876,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1908,8 +1913,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1945,8 +1950,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1983,8 +1988,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2021,8 +2026,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2059,8 +2064,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2097,8 +2102,8 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2135,8 +2140,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2172,8 +2177,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2209,8 +2214,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2246,8 +2251,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2283,8 +2288,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2320,8 +2325,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2357,8 +2362,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2394,8 +2399,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2431,8 +2436,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2469,8 +2474,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2507,8 +2512,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2545,8 +2550,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2583,8 +2588,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2621,8 +2626,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2659,8 +2664,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2697,8 +2702,8 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2735,8 +2740,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2772,8 +2777,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2809,8 +2814,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2846,8 +2851,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2883,8 +2888,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2920,8 +2925,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2957,8 +2962,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2994,8 +2999,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3031,8 +3036,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3068,8 +3073,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3105,8 +3110,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3142,8 +3147,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3179,8 +3184,8 @@
 			<district>Раменский  район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T15:28:49+03:00</creation-date>
-		<last-update-date>2017-11-26T15:28:49+03:00</last-update-date>
+		<creation-date>2017-11-26T16:57:28+03:00</creation-date>
+		<last-update-date>2017-11-26T16:57:28+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
