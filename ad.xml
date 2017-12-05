@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-	<generation-date>2017-11-26T14:09:58+03:00</generation-date>
+	<generation-date>2017-12-05T20:45:24+03:00</generation-date>
 	<offer internal-id="1">
 		<location>
 			<latitude>55.337117</latitude>
@@ -10,14 +10,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -37,11 +37,6 @@
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
-		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2261__.jpg</image>
-		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2361__.jpg</image>
-		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2521__.jpg</image>
-		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2533__.jpg</image>
-		<image>https://raw.githubusercontent.com/Frusecer/new/master/images/PNK-Group_photo_.jpg</image>
 	</offer>
 	<offer internal-id="2">
 		<location>
@@ -52,14 +47,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237317</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -71,7 +66,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>1</value>
+			<value>4608</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -89,14 +84,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237318</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -126,14 +121,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237319</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -163,14 +158,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237320</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -200,26 +195,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237321</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4314</value>
+			<value>2598</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -237,26 +232,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237322</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6863</value>
+			<value>3431</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -274,26 +269,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237323</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8471</value>
+			<value>4314</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -311,26 +306,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237324</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>26496</value>
+			<value>6863</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -348,26 +343,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237325</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>4600</value>
+			<value>8471</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -385,14 +380,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237326</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -404,7 +399,7 @@
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5760</value>
+			<value>26496</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -422,26 +417,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237327</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>6912</value>
+			<value>2300</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -459,26 +454,26 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237328</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>8060</value>
+			<value>3460</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
@@ -496,14 +491,162 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237329</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>4600</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Валищево</description>
+		<office-class>А</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="15">
+		<location>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>городской округ Подольск</district>
+			<locality-name>деревня Валищево</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237330</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>5760</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Валищево</description>
+		<office-class>А</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="16">
+		<location>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>городской округ Подольск</district>
+			<locality-name>деревня Валищево</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237331</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>6912</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Валищево</description>
+		<office-class>А</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="17">
+		<location>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>городской округ Подольск</district>
+			<locality-name>деревня Валищево</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237332</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>8060</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Валищево</description>
+		<office-class>А</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="18">
+		<location>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>городской округ Подольск</district>
+			<locality-name>деревня Валищево</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237333</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -519,12 +662,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="15">
+	<offer internal-id="19">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -533,14 +676,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237334</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -556,12 +699,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="16">
+	<offer internal-id="20">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -570,14 +713,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237335</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -593,12 +736,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="17">
+	<offer internal-id="21">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -607,14 +750,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237336</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -630,12 +773,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="18">
+	<offer internal-id="22">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -644,14 +787,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237337</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -667,12 +810,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="19">
+	<offer internal-id="23">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -681,14 +824,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237338</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -704,12 +847,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="20">
+	<offer internal-id="24">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -718,14 +861,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237339</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -741,12 +884,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="21">
+	<offer internal-id="25">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -755,14 +898,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237340</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -778,12 +921,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="22">
+	<offer internal-id="26">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -792,14 +935,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237341</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -815,12 +958,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="23">
+	<offer internal-id="27">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -829,14 +972,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237342</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -852,12 +995,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="24">
+	<offer internal-id="28">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -866,14 +1009,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237343</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -889,12 +1032,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="25">
+	<offer internal-id="29">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -903,14 +1046,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237344</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -926,12 +1069,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="26">
+	<offer internal-id="30">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -940,14 +1083,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237345</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -963,12 +1106,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="27">
+	<offer internal-id="31">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -977,14 +1120,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237346</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1000,12 +1143,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="28">
+	<offer internal-id="32">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1014,14 +1157,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237347</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1037,12 +1180,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="29">
+	<offer internal-id="33">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1051,14 +1194,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237348</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1074,12 +1217,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="30">
+	<offer internal-id="34">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1088,14 +1231,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237349</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1111,12 +1254,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="31">
+	<offer internal-id="35">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1125,14 +1268,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237350</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1148,12 +1291,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="32">
+	<offer internal-id="36">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1162,14 +1305,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237351</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1185,12 +1328,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="33">
+	<offer internal-id="37">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1199,14 +1342,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237352</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1222,12 +1365,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="34">
+	<offer internal-id="38">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1236,19 +1379,19 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237353</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>32801</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1259,28 +1402,28 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="35">
+	<offer internal-id="39">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>городской округПодольск</district>
+			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237354</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1297,12 +1440,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="36">
+	<offer internal-id="40">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1311,14 +1454,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237355</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1335,12 +1478,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="37">
+	<offer internal-id="41">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1349,14 +1492,90 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237356</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>3250</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>2598</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Валищево</description>
+		<office-class>А</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="42">
+		<location>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>городской округ Подольск</district>
+			<locality-name>деревня Валищево</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237357</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>3250</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>3431</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Валищево</description>
+		<office-class>А</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="43">
+		<location>
+			<latitude>55.337117</latitude>
+			<longitude>37.667313</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>городской округ Подольск</district>
+			<locality-name>деревня Валищево</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237358</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1373,12 +1592,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="38">
+	<offer internal-id="44">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1387,14 +1606,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237359</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1411,12 +1630,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="39">
+	<offer internal-id="45">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1425,14 +1644,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237360</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1449,12 +1668,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="40">
+	<offer internal-id="46">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1463,14 +1682,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237361</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1487,12 +1706,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="41">
+	<offer internal-id="47">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1501,14 +1720,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237362</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1525,12 +1744,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="42">
+	<offer internal-id="48">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1539,14 +1758,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237363</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1563,12 +1782,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="43">
+	<offer internal-id="49">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1577,14 +1796,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237364</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1601,12 +1820,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="44">
+	<offer internal-id="50">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1615,14 +1834,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237365</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1639,12 +1858,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="45">
+	<offer internal-id="51">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1653,14 +1872,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237366</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1677,12 +1896,12 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="46">
+	<offer internal-id="52">
 		<location>
 			<latitude>55.337117</latitude>
 			<longitude>37.667313</longitude>
@@ -1691,14 +1910,14 @@
 			<district>городской округ Подольск</district>
 			<locality-name>деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237367</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -1715,230 +1934,7 @@
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Валищево</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="47">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Дмитровский район</district>
-			<locality-name>деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>29000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>12960</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Северное Шереметьево</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="48">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Дмитровский район</district>
-			<locality-name>деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>29000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>5180</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Северное Шереметьево</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="49">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Дмитровский район</district>
-			<locality-name>деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>29000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>7780</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Северное Шереметьево</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="50">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Дмитровский район</district>
-			<locality-name>деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>29000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>10370</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Северное Шереметьево</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="51">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Дмитровский район</district>
-			<locality-name>деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>29000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>12960</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Северное Шереметьево</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="52">
-		<location>
-			<latitude>56.093082</latitude>
-			<longitude>37.340844</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Дмитровский район</district>
-			<locality-name>деревня Глазово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>аренда</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>3300</value>
-			<currency>RUB</currency>
-			<period>month</period>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>12960</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Северное Шереметьево</description>
-		<office-class>A</office-class>
+		<office-class>А</office-class>
 		<built-year>2017</built-year>
 		<floor>1</floor>
 		<floors-total>1</floors-total>
@@ -1952,27 +1948,26 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>аренда</type>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>3300</value>
+			<value>29000</value>
 			<currency>RUB</currency>
-			<period>month</period>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
 		<deal-status>direct rent</deal-status>
 		<area>
-			<value>5180</value>
+			<value>12960</value>
 			<unit>кв. м</unit>
 		</area>
 		<description>PNK Парк Северное Шереметьево</description>
@@ -1990,14 +1985,313 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>2590</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>2</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="55">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>5180</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="56">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>7780</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="57">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>10370</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="58">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>12960</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="59">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>3300</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>12960</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="60">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>3300</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>2590</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>2</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="61">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>3300</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>5180</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Северное Шереметьево</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="62">
+		<location>
+			<latitude>56.093082</latitude>
+			<longitude>37.340844</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Дмитровский район</district>
+			<locality-name>деревня Глазово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2019,7 +2313,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="55">
+	<offer internal-id="63">
 		<location>
 			<latitude>56.093082</latitude>
 			<longitude>37.340844</longitude>
@@ -2028,14 +2322,14 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2057,7 +2351,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="56">
+	<offer internal-id="64">
 		<location>
 			<latitude>56.093082</latitude>
 			<longitude>37.340844</longitude>
@@ -2066,14 +2360,14 @@
 			<district>Дмитровский район</district>
 			<locality-name>деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2095,302 +2389,6 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="57">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>21600</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="58">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>10080</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="59">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>11520</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="60">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>12960</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="61">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>14400</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="62">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>15840</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="63">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>17280</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
-	<offer internal-id="64">
-		<location>
-			<latitude>55.425211</latitude>
-			<longitude>36.816171</longitude>
-			<country>Россия</country>
-			<region>Московская область</region>
-			<district>Наро-Фоминский район</district>
-			<locality-name>деревня Бекасово</locality-name>
-		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>продажа</type>
-		<category>commercial</category>
-		<commercial-type>warehouse</commercial-type>
-		<commercial-type>manufacturing</commercial-type>
-		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
-			<category>owner</category>
-			<organization>PNK Group</organization>
-		</sales-agent>
-		<price>
-			<value>28000</value>
-			<currency>RUB</currency>
-			<unit>sq. m</unit>
-			<taxation-form>НДС</taxation-form>
-		</price>
-		<deal-status>direct rent</deal-status>
-		<area>
-			<value>18720</value>
-			<unit>кв. м</unit>
-		</area>
-		<description>PNK Парк Бекасово</description>
-		<office-class>A</office-class>
-		<built-year>2017</built-year>
-		<floor>1</floor>
-		<floors-total>1</floors-total>
-	</offer>
 	<offer internal-id="65">
 		<location>
 			<latitude>55.425211</latitude>
@@ -2400,21 +2398,20 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
-		<type>аренда</type>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>2850</value>
+			<value>28000</value>
 			<currency>RUB</currency>
-			<period>month</period>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
 		</price>
@@ -2438,14 +2435,686 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>2880</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="67">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>4320</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="68">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>5760</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="69">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>7200</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="70">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>29800</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>8640</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="71">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>10080</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="72">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>11520</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="73">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>12960</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="74">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>14400</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="75">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>15840</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="76">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>17280</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="77">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>продажа</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>28000</value>
+			<currency>RUB</currency>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>18720</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="78">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>2850</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>21600</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="79">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>2850</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>2880</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="80">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>2850</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>4320</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="81">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>2850</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>5760</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="82">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>2850</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>7200</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="83">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
+			<category>owner</category>
+			<organization>PNK Group</organization>
+		</sales-agent>
+		<price>
+			<value>2850</value>
+			<currency>RUB</currency>
+			<period>month</period>
+			<unit>sq. m</unit>
+			<taxation-form>НДС</taxation-form>
+		</price>
+		<deal-status>direct rent</deal-status>
+		<area>
+			<value>8640</value>
+			<unit>кв. м</unit>
+		</area>
+		<description>PNK Парк Бекасово</description>
+		<office-class>A</office-class>
+		<built-year>2017</built-year>
+		<floor>1</floor>
+		<floors-total>1</floors-total>
+	</offer>
+	<offer internal-id="84">
+		<location>
+			<latitude>55.425211</latitude>
+			<longitude>36.816171</longitude>
+			<country>Россия</country>
+			<region>Московская область</region>
+			<district>Наро-Фоминский район</district>
+			<locality-name>деревня Бекасово</locality-name>
+		</location>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
+		<type>аренда</type>
+		<category>commercial</category>
+		<commercial-type>warehouse</commercial-type>
+		<commercial-type>manufacturing</commercial-type>
+		<sales-agent>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2467,7 +3136,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="67">
+	<offer internal-id="85">
 		<location>
 			<latitude>55.425211</latitude>
 			<longitude>36.816171</longitude>
@@ -2476,14 +3145,14 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2505,7 +3174,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="68">
+	<offer internal-id="86">
 		<location>
 			<latitude>55.425211</latitude>
 			<longitude>36.816171</longitude>
@@ -2514,14 +3183,14 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2543,7 +3212,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="69">
+	<offer internal-id="87">
 		<location>
 			<latitude>55.425211</latitude>
 			<longitude>36.816171</longitude>
@@ -2552,14 +3221,14 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2581,7 +3250,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="70">
+	<offer internal-id="88">
 		<location>
 			<latitude>55.425211</latitude>
 			<longitude>36.816171</longitude>
@@ -2590,14 +3259,14 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2619,7 +3288,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="71">
+	<offer internal-id="89">
 		<location>
 			<latitude>55.425211</latitude>
 			<longitude>36.816171</longitude>
@@ -2628,14 +3297,14 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2657,7 +3326,7 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="72">
+	<offer internal-id="90">
 		<location>
 			<latitude>55.425211</latitude>
 			<longitude>36.816171</longitude>
@@ -2666,14 +3335,14 @@
 			<district>Наро-Фоминский район</district>
 			<locality-name>деревня Бекасово</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
@@ -2695,28 +3364,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="73">
+	<offer internal-id="91">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>36300</value>
+			<value>33300</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2732,28 +3401,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="74">
+	<offer internal-id="92">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>33600</value>
+			<value>30600</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2769,28 +3438,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="75">
+	<offer internal-id="93">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2806,28 +3475,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="76">
+	<offer internal-id="94">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2843,28 +3512,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="77">
+	<offer internal-id="95">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2880,28 +3549,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="78">
+	<offer internal-id="96">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2917,28 +3586,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="79">
+	<offer internal-id="97">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2954,28 +3623,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="80">
+	<offer internal-id="98">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -2991,28 +3660,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="81">
+	<offer internal-id="99">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3028,28 +3697,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="82">
+	<offer internal-id="100">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3065,28 +3734,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="83">
+	<offer internal-id="101">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3102,28 +3771,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="84">
+	<offer internal-id="102">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3139,28 +3808,28 @@
 		<floor>1</floor>
 		<floors-total>1</floors-total>
 	</offer>
-	<offer internal-id="85">
+	<offer internal-id="103">
 		<location>
 			<latitude>55.491298</latitude>
 			<longitude>38.163761</longitude>
 			<country>Россия</country>
 			<region>Московская область</region>
-			<district>Раменский  район</district>
+			<district>Раменский район</district>
 			<locality-name>деревня Софьино</locality-name>
 		</location>
-		<creation-date>2017-11-26T14:09:58+03:00</creation-date>
-		<last-update-date>2017-11-26T14:09:58+03:00</last-update-date>
+		<creation-date>2017-12-05T20:45:24+03:00</creation-date>
+		<last-update-date>2017-12-05T20:45:24+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
 		<commercial-type>manufacturing</commercial-type>
 		<sales-agent>
-			<phone>+7­495­723­73­16</phone>
+			<phone>+74957237316</phone>
 			<category>owner</category>
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>29800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
