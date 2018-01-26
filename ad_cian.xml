@@ -2,12 +2,12 @@
 <commerce>
 	<offer>
 		<id>1</id>
-		<commercial_type>W</commercial_type>
-		<commercial_type>AU</commercial_type>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
 		<contract_type>4</contract_type>
 		<area total="5184"/>
 		<price currency="RUB">154483200</price>
-		<building class="A" floor="1" floor_total="1" status_b="3" type="1"/>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
 		<phone>4957237316</phone>
 		<address admin_area="2" locality=" городской округ Подольск,  деревня Валищево"/>
 		<note><![CDATA[Российский девелопер промышленных объектов PNK Group]]></note>
@@ -19,12 +19,12 @@
 	</offer>
 	<offer>
 		<id>2</id>
-		<commercial_type>W</commercial_type>
-		<commercial_type>AU</commercial_type>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
 		<contract_type>1</contract_type>
 		<area total="8640"/>
 		<price currency="RUB" period="year">2340000</price>
-		<building class="A" floor="1" floor_total="1" status_b="3" type="1"/>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
 		<phone>4957237316</phone>
 		<address admin_area="2" locality=" городской округ Подольск,  деревня Валищево"/>
 		<note><![CDATA[Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. ]]></note>
