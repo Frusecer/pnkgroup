@@ -2,8 +2,8 @@
 <commerce>
 	<offer>
 		<id>1</id>
-		<commercial_type>W</commercial_type>
-		<commercial_type>AU</commercial_type>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
 		<contract_type>4</contract_type>
 		<area total="5184"/>
 		<price currency="RUB">154483200</price>
@@ -19,8 +19,8 @@
 	</offer>
 	<offer>
 		<id>2</id>
-		<commercial_type>W</commercial_type>
-		<commercial_type>AU</commercial_type>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
 		<contract_type>1</contract_type>
 		<area total="8640"/>
 		<price currency="RUB" period="year">2340000</price>
