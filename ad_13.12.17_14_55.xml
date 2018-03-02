@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-	<generation-date>2017-12-15T13:03:49+03:00</generation-date>
+	<generation-date>2018-03-02T08:43:47+03:00</generation-date>
 	<offer internal-id="1">
 		<location>
 			<latitude>55.337117</latitude>
@@ -10,8 +10,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -22,7 +22,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>154483200</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -54,8 +54,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -66,7 +66,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>180230400</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -98,8 +98,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -110,7 +110,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>205977600</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -142,8 +142,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -154,7 +154,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>231724800</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -186,8 +186,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -198,7 +198,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>193620000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -230,8 +230,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -242,7 +242,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>241920000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -274,8 +274,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -286,7 +286,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>314496000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -318,8 +318,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -330,7 +330,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>741888000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -362,8 +362,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -374,7 +374,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>171648000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -406,8 +406,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -418,7 +418,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>205977600</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -450,8 +450,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -462,7 +462,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>240188000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -494,8 +494,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -506,7 +506,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>354760000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -538,8 +538,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -550,7 +550,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>386960000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -582,8 +582,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -594,7 +594,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>36300</value>
+			<value>26136000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -627,8 +627,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -639,7 +639,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>33600</value>
+			<value>48384000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -672,8 +672,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -684,7 +684,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>94464000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -717,8 +717,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -729,7 +729,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>118080000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -762,8 +762,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -774,7 +774,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>141696000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -807,8 +807,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -819,7 +819,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>165312000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -852,8 +852,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -864,7 +864,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>188928000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -897,8 +897,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -909,7 +909,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>212544000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -942,8 +942,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -954,7 +954,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>236160000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -987,8 +987,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -999,7 +999,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>259776000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1032,8 +1032,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1044,7 +1044,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>283392000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1077,8 +1077,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1089,7 +1089,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>307008000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1122,8 +1122,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1134,7 +1134,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>330624000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1167,8 +1167,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1179,7 +1179,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>354240000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1212,8 +1212,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1224,7 +1224,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>377856000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1257,8 +1257,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1269,7 +1269,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>401472000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1302,8 +1302,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1314,7 +1314,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>425088000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1347,8 +1347,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1359,7 +1359,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>448704000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1392,8 +1392,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1404,7 +1404,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>32800</value>
+			<value>472320000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1437,8 +1437,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1449,7 +1449,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>128800000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1482,8 +1482,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1494,7 +1494,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>257600000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1527,8 +1527,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1539,7 +1539,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>386400000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1572,8 +1572,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1584,7 +1584,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>515200000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1617,8 +1617,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1629,7 +1629,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>644000000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1662,8 +1662,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1674,7 +1674,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>772800000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1707,8 +1707,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1719,7 +1719,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>901600000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1752,8 +1752,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1764,7 +1764,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>1030400000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1797,8 +1797,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1809,7 +1809,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>1159200000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1842,8 +1842,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1854,7 +1854,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>1288000000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1887,8 +1887,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1899,7 +1899,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>1416800000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1932,8 +1932,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1944,7 +1944,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>1545600000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -1977,8 +1977,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -1989,7 +1989,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>2340000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2020,8 +2020,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2032,7 +2032,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>2761200</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2063,8 +2063,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2075,7 +2075,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1404000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2106,8 +2106,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2118,7 +2118,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1638000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2149,8 +2149,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2161,7 +2161,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1872000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2192,8 +2192,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2204,7 +2204,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>2106000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2235,8 +2235,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2247,7 +2247,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>2340000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2278,8 +2278,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2290,7 +2290,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>6513600</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2321,8 +2321,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2333,7 +2333,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1245833</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2364,8 +2364,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2376,7 +2376,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1560000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2407,8 +2407,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2419,7 +2419,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1872000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2450,8 +2450,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2462,7 +2462,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>2182917</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2493,8 +2493,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2505,7 +2505,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>3114708</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2536,8 +2536,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2548,7 +2548,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>3397417</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2579,8 +2579,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2591,7 +2591,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>1245833</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2622,8 +2622,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2634,7 +2634,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>320</value>
+			<value>2491667</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2665,8 +2665,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2677,7 +2677,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>3392500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2708,8 +2708,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2720,7 +2720,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>4523333</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2751,8 +2751,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2763,7 +2763,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>5654167</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2794,8 +2794,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2806,7 +2806,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>6785000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2837,8 +2837,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2849,7 +2849,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>7915833</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2880,8 +2880,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2892,7 +2892,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>9046667</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2923,8 +2923,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2935,7 +2935,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>10177500</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -2966,8 +2966,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -2978,7 +2978,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>11308333</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3009,8 +3009,8 @@
 			<district> городской округ Подольск</district>
 			<locality-name> деревня Валищево</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3021,7 +3021,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>290</value>
+			<value>12439167</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3052,8 +3052,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3064,7 +3064,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>375840000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3096,8 +3096,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3108,7 +3108,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>150220000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3140,8 +3140,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3152,7 +3152,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>225620000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3184,8 +3184,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3196,7 +3196,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>300730000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3228,8 +3228,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3240,7 +3240,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29000</value>
+			<value>375840000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3272,8 +3272,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3284,7 +3284,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>324</value>
+			<value>3564000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3315,8 +3315,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3327,7 +3327,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>324</value>
+			<value>2851750</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3358,8 +3358,8 @@
 			<district> Дмитровский район</district>
 			<locality-name> вблизи деревня Глазово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3370,7 +3370,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>324</value>
+			<value>3564000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3401,8 +3401,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3413,7 +3413,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>604800000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3445,8 +3445,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3457,7 +3457,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>171648000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3489,8 +3489,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3501,7 +3501,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>214560000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3533,8 +3533,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3545,7 +3545,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>29800</value>
+			<value>257472000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3577,8 +3577,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3589,7 +3589,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>282240000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3621,8 +3621,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3633,7 +3633,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>322560000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3665,8 +3665,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3677,7 +3677,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>362880000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3709,8 +3709,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3721,7 +3721,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>403200000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3753,8 +3753,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3765,7 +3765,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>443520000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3797,8 +3797,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3809,7 +3809,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>483840000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3841,8 +3841,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>продажа</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3853,7 +3853,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>28000</value>
+			<value>524160000</value>
 			<currency>RUB</currency>
 			<unit>sq. m</unit>
 			<taxation-form>НДС</taxation-form>
@@ -3885,8 +3885,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3897,7 +3897,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>5130000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3930,8 +3930,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3942,7 +3942,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>2394000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -3975,8 +3975,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -3987,7 +3987,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>2736000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -4020,8 +4020,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -4032,7 +4032,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>3078000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -4065,8 +4065,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -4077,7 +4077,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>3420000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -4110,8 +4110,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -4122,7 +4122,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>3762000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -4155,8 +4155,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -4167,7 +4167,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>4104000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
@@ -4200,8 +4200,8 @@
 			<district> Наро-Фоминский район</district>
 			<locality-name> вблизи деревни Бекасово</locality-name>
 		</location>
-		<creation-date>2017-12-15T13:03:49+03:00</creation-date>
-		<last-update-date>2017-12-15T13:03:49+03:00</last-update-date>
+		<creation-date>2018-03-02T08:43:47+03:00</creation-date>
+		<last-update-date>2018-03-02T08:43:47+03:00</last-update-date>
 		<type>аренда</type>
 		<category>commercial</category>
 		<commercial-type>warehouse</commercial-type>
@@ -4212,7 +4212,7 @@
 			<organization>PNK Group</organization>
 		</sales-agent>
 		<price>
-			<value>280</value>
+			<value>4446000</value>
 			<currency>RUB</currency>
 			<period>month</period>
 			<unit>sq. m</unit>
