@@ -1,0 +1,1039 @@
+<?xml version="1.0" ?>
+<commerce>
+	<offer>
+		<id>1</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="11520"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
+
+</note>
+		<photo>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2261__.jpg</photo>
+		<photo>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2361__.jpg</photo>
+		<photo>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2521__.jpg</photo>
+		<photo>https://raw.githubusercontent.com/Frusecer/new/master/images/_KOK2533__.jpg</photo>
+		<photo>https://raw.githubusercontent.com/Frusecer/new/master/images/PNK-Group_photo_.jpg</photo>
+	</offer>
+	<offer>
+		<id>2</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="1"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>3</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="6912"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>4</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="8640"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>5</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="11232"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>6</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="4314"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>7</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="6863"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>8</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="8471"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>9</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="26496"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>10</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="4600"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>11</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="5760"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>12</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="6912"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>13</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="8060"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>14</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="12670"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>15</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="13820"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>16</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="720"/>
+		<price currency="RUB">36300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>17</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="1440"/>
+		<price currency="RUB">33600</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>18</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="2880"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>19</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="3600"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>20</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="4320"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>21</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="5040"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>22</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="5760"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>23</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="6480"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>24</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="7200"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>25</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="7920"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>26</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="8640"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>27</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="9360"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>28</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="10080"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>29</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="10800"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>30</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="11520"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>31</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="12240"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>32</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="12960"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>33</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="13680"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>34</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="14400"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>35</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="8640"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округПодольск, деревня Валищево"/>
+		<note>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </note>
+	</offer>
+	<offer>
+		<id>36</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="11232"/>
+		<price currency="RUB" period="year">2950</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>37</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="4314"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>38</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="6863"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>39</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="8471"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>40</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="26496"/>
+		<price currency="RUB" period="year">2950</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>41</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="4600"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>42</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="5760"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>43</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="6912"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>44</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="8060"/>
+		<price currency="RUB" period="year">3250</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>45</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="12670"/>
+		<price currency="RUB" period="year">2950</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>46</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="13820"/>
+		<price currency="RUB" period="year">2950</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="городской округ Подольск, деревня Валищево"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>47</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="12960"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
+
+</note>
+	</offer>
+	<offer>
+		<id>48</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="5180"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>49</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="7780"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>50</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="10370"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>51</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="12960"/>
+		<price currency="RUB">29000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>52</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="12960"/>
+		<price currency="RUB" period="year">3300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. </note>
+	</offer>
+	<offer>
+		<id>53</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="5180"/>
+		<price currency="RUB" period="year">3300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>54</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="7780"/>
+		<price currency="RUB" period="year">3300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>55</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="10370"/>
+		<price currency="RUB" period="year">3300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>56</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="12960"/>
+		<price currency="RUB" period="year">3300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Дмитровский район, деревня Глазово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>57</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="21600"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Российский девелопер промышленных объектов PNK Group продает индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
+
+</note>
+	</offer>
+	<offer>
+		<id>58</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="10080"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>59</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="11520"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>60</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="12960"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>61</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="14400"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>62</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="15840"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>63</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="17280"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>64</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="18720"/>
+		<price currency="RUB">28000</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>65</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="21600"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Российский девелопер промышленных объектов PNK Group сдает  индустриальное здание с полностью готовой инфраструктурой и прилегающей территорией. Корпус оснащен индивидуальной системой энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. 
+
+</note>
+	</offer>
+	<offer>
+		<id>66</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="10080"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>67</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="11520"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>68</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="12960"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>69</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="14400"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>70</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="15840"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>71</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="17280"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>72</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>1</contract_type>
+		<area total="18720"/>
+		<price currency="RUB" period="year">2850</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Наро-Фоминский район, деревня Бекасово"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>73</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="720"/>
+		<price currency="RUB">36300</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Российский девелопер промышленных объектов PNK Group продает индустриальный таунхаус площадью кв.м с готовой инфраструктурой и прилегающей территорией.
+Блок площадью кв.м продаются с полностью готовой инфраструктурой: корпуса оснащены индивидуальными системами энергоснабжения и всеми необходимыми инженерными сетями. Для каждого владельца предусмотрена собственная прилегающая территория с отдельным въездом. Также по запросу возможно дооснащение площадки офисным блоком и подкрановыми путями. Возможна покупка в рассрочку на 6 мес.
+
+</note>
+	</offer>
+	<offer>
+		<id>74</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="1440"/>
+		<price currency="RUB">33600</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>75</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="2880"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>76</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="3600"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>77</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="4320"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>78</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="5040"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>79</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="5760"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>80</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="6480"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>81</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="7200"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>82</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="7920"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>83</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="8640"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>84</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="9360"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+	<offer>
+		<id>85</id>
+		<commerce_type>W</commerce_type>
+		<commerce_type>AU</commerce_type>
+		<contract_type>4</contract_type>
+		<area total="10080"/>
+		<price currency="RUB">32800</price>
+		<building class="1" floor="1" floor_total="1" status_b="3" type="1"/>
+		<phone>4957237316</phone>
+		<address admin_area="2" locality="Раменский  район, деревня Софьино"/>
+		<note>Без описания</note>
+	</offer>
+</commerce>
